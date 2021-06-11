@@ -96,7 +96,14 @@ footer p{
         display: inline-block;
         padding: 0 5px;
     }
-    .banner, #banner2{
+    #banner2{
         width: 100%;
+    }
+    section.banner{
+        background-image: url(../img/zack.jpg);
+       background-size: cover;
+       background-position: center;
+        height: 76.5vh;
+        padding: 0 10px;
     }
 }
