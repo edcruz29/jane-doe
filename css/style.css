@@ -96,7 +96,7 @@ footer p{
         display: inline-block;
         padding: 0 5px;
     }
-    #banner2{
+    .banner, #banner2{
         width: 100%;
     }
 }
