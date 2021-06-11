@@ -101,9 +101,9 @@ footer p{
     }
     section.banner{
         background-image: url(../img/zack.jpg);
-       background-size: cover;
+       background-size:cover;
        background-position: center;
-        height: 76.5vh;
+        height: 70.5vh;
         padding: 0 10px;
     }
 }
